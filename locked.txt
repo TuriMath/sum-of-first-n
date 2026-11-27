@@ -1,1 +1,4 @@
 # sha256  path. Statements locked after their A<->B PR merged. Lines are only ever added (scripts/gate.py, check 6).
+79dcde25abea79c764f29d5ecc24bf26cb3abf96cba64ba186a24c1dbf804874  Theorems/SumOfFirstN/A.lean
+8ec380c442ff091b63905ffb4215d4b7f6dd88832babb55dbf19e71e3ea4e0f0  Theorems/SumOfFirstN/B.lean
+9bf6418f5ce260f8595613d8eb1ada9ad805b400d5e53dd91e64183bed1deb10  Theorems/SumOfFirstN/Equiv.lean
